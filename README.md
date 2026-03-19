@@ -1,5 +1,6 @@
 
 # humanitarian-data-intelligence
+Transforming raw humanitarian data into actionable insights 
 
 ## Project setup
 
